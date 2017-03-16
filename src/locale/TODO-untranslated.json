@@ -1,29 +1,5 @@
 [
     {
-        "id": "App.welcome",
-        "defaultMessage": "Hello world!",
-        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
-        "locale": "pt-BR"
-    },
-    {
-        "id": "App.welcome",
-        "defaultMessage": "Hello world!",
-        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
-        "locale": "xx-en-reverse"
-    },
-    {
-        "id": "App.farewell",
-        "defaultMessage": "The end",
-        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
-        "locale": "pt-BR"
-    },
-    {
-        "id": "App.farewell",
-        "defaultMessage": "The end",
-        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
-        "locale": "xx-en-reverse"
-    },
-    {
         "id": "Buttons.press",
         "description": "User presses button to take an action",
         "defaultMessage": "Press me",
@@ -49,18 +25,6 @@
         "description": "User presses button to cancel action",
         "defaultMessage": "Cancel",
         "file": "/Users/dave/git-repos/riw-example/src/components/Buttons.js",
-        "locale": "xx-en-reverse"
-    },
-    {
-        "id": "FileCounter.label",
-        "defaultMessage": "You have {numFiles, plural, =0 {no files} one {one file} other {# files}}",
-        "file": "/Users/dave/git-repos/riw-example/src/components/FileCounter.js",
-        "locale": "pt-BR"
-    },
-    {
-        "id": "FileCounter.label",
-        "defaultMessage": "You have {numFiles, plural, =0 {no files} one {one file} other {# files}}",
-        "file": "/Users/dave/git-repos/riw-example/src/components/FileCounter.js",
         "locale": "xx-en-reverse"
     },
     {

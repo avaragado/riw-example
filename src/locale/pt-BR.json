@@ -1,1 +1,5 @@
-{}
+{
+    "App.welcome": "Olá Mundo!",
+    "App.farewell": "O fim",
+    "FileCounter.label": "Você {numFiles, plural, =0 {não tem arquivos} one {tem um arquivo} other {tem # arquivos}}"
+}
