@@ -1,4 +1,23 @@
 {
     "version": 1,
-    "data": {}
+    "data": {
+        "Hello world!": {
+            "_": {
+                "pt-BR": "Olá Mundo!",
+                "xx-en-reverse": "!dlrow olleH"
+            }
+        },
+        "The end": {
+            "_": {
+                "pt-BR": "O fim",
+                "xx-en-reverse": "dne ehT"
+            }
+        },
+        "You have {numFiles, plural, =0 {no files} one {one file} other {# files}}": {
+            "_": {
+                "pt-BR": "Você {numFiles, plural, =0 {não tem arquivos} one {tem um arquivo} other {tem # arquivos}}",
+                "xx-en-reverse": "{numFiles, plural, =0 {selif on} one {elif eno} other {selif #}} evah uoT"
+            }
+        }
+    }
 }

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "App.welcome",
+        "defaultMessage": "Hello world!",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "pt-BR",
+        "translation": "Olá Mundo!"
+    },
+    {
+        "id": "App.welcome",
+        "defaultMessage": "Hello world!",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "xx-en-reverse",
+        "translation": "!dlrow olleH"
+    },
+    {
+        "id": "App.farewell",
+        "defaultMessage": "The end",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "pt-BR",
+        "translation": "O fim"
+    },
+    {
+        "id": "App.farewell",
+        "defaultMessage": "The end",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "xx-en-reverse",
+        "translation": "dne ehT"
+    },
+    {
+        "id": "FileCounter.label",
+        "defaultMessage": "You have {numFiles, plural, =0 {no files} one {one file} other {# files}}",
+        "file": "/Users/dave/git-repos/riw-example/src/components/FileCounter.js",
+        "locale": "pt-BR",
+        "translation": "Você {numFiles, plural, =0 {não tem arquivos} one {tem um arquivo} other {tem # arquivos}}"
+    },
+    {
+        "id": "FileCounter.label",
+        "defaultMessage": "You have {numFiles, plural, =0 {no files} one {one file} other {# files}}",
+        "file": "/Users/dave/git-repos/riw-example/src/components/FileCounter.js",
+        "locale": "xx-en-reverse",
+        "translation": "{numFiles, plural, =0 {selif on} one {elif eno} other {selif #}} evah uoT"
+    }
+]
