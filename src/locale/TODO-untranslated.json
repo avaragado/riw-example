@@ -3,12 +3,6 @@
         "id": "App.welcome",
         "defaultMessage": "Hello everyone!",
         "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
-        "locale": "pt-BR"
-    },
-    {
-        "id": "App.welcome",
-        "defaultMessage": "Hello everyone!",
-        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
         "locale": "xx-en-reverse"
     },
     {

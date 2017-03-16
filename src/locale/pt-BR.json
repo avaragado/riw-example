@@ -1,3 +1,4 @@
 {
+    "App.welcome": "Olá a todos",
     "FileCounter.label": "Você {numFiles, plural, =0 {não tem arquivos} one {tem um arquivo} other {tem # arquivos}}"
 }
