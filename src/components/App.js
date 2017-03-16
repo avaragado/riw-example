@@ -1,12 +1,24 @@
 import React from 'react';
+import { defineMessages, FormattedMessage } from 'react-intl';
 
 import Buttons from './Buttons';
 import Text from './Text';
 import FileCounter from './FileCounter';
 
+const msg = defineMessages({
+    hello: {
+        id: 'App.welcome',
+        defaultMessage: 'Hello world!',
+    },
+    goodbye: {
+        id: 'App.farewell',
+        defaultMessage: 'The end',
+    },
+});
+
 const App = () => (
     <div>
-        <h1>Hello world!</h1>
+        <h1><FormattedMessage {...msg.hello} /></h1>
 
         <Text name="Fred" number="123456" />
 
@@ -17,7 +29,7 @@ const App = () => (
 
         <Buttons />
 
-        <p>The end</p>
+        <p><FormattedMessage {...msg.goodbye} /></p>
     </div>
 );
 

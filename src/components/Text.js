@@ -1,14 +1,26 @@
 import React from 'react';
+import { defineMessages, FormattedMessage } from 'react-intl';
 
 import FileCounter from './FileCounter';
 
+const msg = defineMessages({
+    intro: {
+        id: 'Text.intro',
+        defaultMessage: 'This is some boring text related to {name}.',
+    },
+    thanks: {
+        id: 'Text.thanks',
+        defaultMessage: 'Thank you.',
+    },
+});
+
 const Text = ({ name, number }) => (
     <div>
-        <p>This is some boring text related to {name}.</p>
+        <p><FormattedMessage {...msg.intro} values={{ name }} /></p>
 
         <FileCounter numFiles={number} />
 
-        <p>Thank you.</p>
+        <p><FormattedMessage {...msg.thanks} /></p>
     </div>
 );
 
