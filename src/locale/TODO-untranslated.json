@@ -1,0 +1,90 @@
+[
+    {
+        "id": "App.welcome",
+        "defaultMessage": "Hello world!",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "pt-BR"
+    },
+    {
+        "id": "App.welcome",
+        "defaultMessage": "Hello world!",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "xx-en-reverse"
+    },
+    {
+        "id": "App.farewell",
+        "defaultMessage": "The end",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "pt-BR"
+    },
+    {
+        "id": "App.farewell",
+        "defaultMessage": "The end",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "xx-en-reverse"
+    },
+    {
+        "id": "Buttons.press",
+        "description": "User presses button to take an action",
+        "defaultMessage": "Press me",
+        "file": "/Users/dave/git-repos/riw-example/src/components/Buttons.js",
+        "locale": "pt-BR"
+    },
+    {
+        "id": "Buttons.press",
+        "description": "User presses button to take an action",
+        "defaultMessage": "Press me",
+        "file": "/Users/dave/git-repos/riw-example/src/components/Buttons.js",
+        "locale": "xx-en-reverse"
+    },
+    {
+        "id": "Buttons.cancel",
+        "description": "User presses button to cancel action",
+        "defaultMessage": "Cancel",
+        "file": "/Users/dave/git-repos/riw-example/src/components/Buttons.js",
+        "locale": "pt-BR"
+    },
+    {
+        "id": "Buttons.cancel",
+        "description": "User presses button to cancel action",
+        "defaultMessage": "Cancel",
+        "file": "/Users/dave/git-repos/riw-example/src/components/Buttons.js",
+        "locale": "xx-en-reverse"
+    },
+    {
+        "id": "FileCounter.label",
+        "defaultMessage": "You have {numFiles, plural, =0 {no files} one {one file} other {# files}}",
+        "file": "/Users/dave/git-repos/riw-example/src/components/FileCounter.js",
+        "locale": "pt-BR"
+    },
+    {
+        "id": "FileCounter.label",
+        "defaultMessage": "You have {numFiles, plural, =0 {no files} one {one file} other {# files}}",
+        "file": "/Users/dave/git-repos/riw-example/src/components/FileCounter.js",
+        "locale": "xx-en-reverse"
+    },
+    {
+        "id": "Text.intro",
+        "defaultMessage": "This is some boring text related to {name}.",
+        "file": "/Users/dave/git-repos/riw-example/src/components/Text.js",
+        "locale": "pt-BR"
+    },
+    {
+        "id": "Text.intro",
+        "defaultMessage": "This is some boring text related to {name}.",
+        "file": "/Users/dave/git-repos/riw-example/src/components/Text.js",
+        "locale": "xx-en-reverse"
+    },
+    {
+        "id": "Text.thanks",
+        "defaultMessage": "Thank you.",
+        "file": "/Users/dave/git-repos/riw-example/src/components/Text.js",
+        "locale": "pt-BR"
+    },
+    {
+        "id": "Text.thanks",
+        "defaultMessage": "Thank you.",
+        "file": "/Users/dave/git-repos/riw-example/src/components/Text.js",
+        "locale": "xx-en-reverse"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "App.welcome": "Hello world!",
+    "App.farewell": "The end",
+    "Buttons.press": "Press me",
+    "Buttons.cancel": "Cancel",
+    "FileCounter.label": "You have {numFiles, plural, =0 {no files} one {one file} other {# files}}",
+    "Text.intro": "This is some boring text related to {name}.",
+    "Text.thanks": "Thank you."
+}
