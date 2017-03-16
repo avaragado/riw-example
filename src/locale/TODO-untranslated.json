@@ -32,20 +32,6 @@
         "locale": "xx-en-reverse"
     },
     {
-        "id": "Buttons.cancel",
-        "description": "User presses button to cancel action",
-        "defaultMessage": "Cancel",
-        "file": "/Users/dave/git-repos/riw-example/src/components/Buttons.js",
-        "locale": "pt-BR"
-    },
-    {
-        "id": "Buttons.cancel",
-        "description": "User presses button to cancel action",
-        "defaultMessage": "Cancel",
-        "file": "/Users/dave/git-repos/riw-example/src/components/Buttons.js",
-        "locale": "xx-en-reverse"
-    },
-    {
         "id": "Text.intro",
         "defaultMessage": "This is some interesting text related to {name}.",
         "file": "/Users/dave/git-repos/riw-example/src/components/Text.js",

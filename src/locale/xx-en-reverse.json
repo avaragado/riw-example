@@ -1,3 +1,4 @@
 {
+    "Buttons.cancel": "lecnaC",
     "FileCounter.label": "{numFiles, plural, =0 {selif on} one {elif eno} other {selif #}} evah uoY"
 }

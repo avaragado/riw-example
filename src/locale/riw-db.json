@@ -23,6 +23,12 @@
             "_": {
                 "pt-BR": "Olá a todos"
             }
+        },
+        "Cancel": {
+            "User presses button to cancel action": {
+                "pt-BR": "Cancelar",
+                "xx-en-reverse": "lecnaC"
+            }
         }
     }
 }

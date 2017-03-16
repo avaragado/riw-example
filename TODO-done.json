@@ -1,9 +1,18 @@
 [
     {
-        "id": "App.welcome",
-        "defaultMessage": "Hello everyone!",
-        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "id": "Buttons.cancel",
+        "description": "User presses button to cancel action",
+        "defaultMessage": "Cancel",
+        "file": "/Users/dave/git-repos/riw-example/src/components/Buttons.js",
         "locale": "pt-BR",
-        "translation": "Olá a todos"
+        "translation": "Cancelar"
+    },
+    {
+        "id": "Buttons.cancel",
+        "description": "User presses button to cancel action",
+        "defaultMessage": "Cancel",
+        "file": "/Users/dave/git-repos/riw-example/src/components/Buttons.js",
+        "locale": "xx-en-reverse",
+        "translation": "lecnaC"
     }
 ]
