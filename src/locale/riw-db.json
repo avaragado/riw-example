@@ -16,7 +16,7 @@
         "You have {numFiles, plural, =0 {no files} one {one file} other {# files}}": {
             "_": {
                 "pt-BR": "Você {numFiles, plural, =0 {não tem arquivos} one {tem um arquivo} other {tem # arquivos}}",
-                "xx-en-reverse": "{numFiles, plural, =0 {selif on} one {elif eno} other {selif #}} evah uoT"
+                "xx-en-reverse": "{numFiles, plural, =0 {selif on} one {elif eno} other {selif #}} evah uoY"
             }
         },
         "Hello everyone!": {
