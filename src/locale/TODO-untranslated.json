@@ -1,5 +1,29 @@
 [
     {
+        "id": "App.welcome",
+        "defaultMessage": "Hello everyone!",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "pt-BR"
+    },
+    {
+        "id": "App.welcome",
+        "defaultMessage": "Hello everyone!",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "xx-en-reverse"
+    },
+    {
+        "id": "App.farewell",
+        "defaultMessage": "Goodbye",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "pt-BR"
+    },
+    {
+        "id": "App.farewell",
+        "defaultMessage": "Goodbye",
+        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "locale": "xx-en-reverse"
+    },
+    {
         "id": "Buttons.press",
         "description": "User presses button to take an action",
         "defaultMessage": "Press me",
@@ -29,13 +53,13 @@
     },
     {
         "id": "Text.intro",
-        "defaultMessage": "This is some boring text related to {name}.",
+        "defaultMessage": "This is some interesting text related to {name}.",
         "file": "/Users/dave/git-repos/riw-example/src/components/Text.js",
         "locale": "pt-BR"
     },
     {
         "id": "Text.intro",
-        "defaultMessage": "This is some boring text related to {name}.",
+        "defaultMessage": "This is some interesting text related to {name}.",
         "file": "/Users/dave/git-repos/riw-example/src/components/Text.js",
         "locale": "xx-en-reverse"
     },

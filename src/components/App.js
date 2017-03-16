@@ -8,11 +8,11 @@ import FileCounter from './FileCounter';
 const msg = defineMessages({
     hello: {
         id: 'App.welcome',
-        defaultMessage: 'Hello world!',
+        defaultMessage: 'Hello everyone!',
     },
     goodbye: {
         id: 'App.farewell',
-        defaultMessage: 'The end',
+        defaultMessage: 'Goodbye',
     },
 });
 

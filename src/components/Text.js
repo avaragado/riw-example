@@ -6,7 +6,7 @@ import FileCounter from './FileCounter';
 const msg = defineMessages({
     intro: {
         id: 'Text.intro',
-        defaultMessage: 'This is some boring text related to {name}.',
+        defaultMessage: 'This is some interesting text related to {name}.',
     },
     thanks: {
         id: 'Text.thanks',

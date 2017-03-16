@@ -1,5 +1,3 @@
 {
-    "App.welcome": "!dlrow olleH",
-    "App.farewell": "dne ehT",
     "FileCounter.label": "{numFiles, plural, =0 {selif on} one {elif eno} other {selif #}} evah uoT"
 }
