@@ -10,6 +10,15 @@ module.exports = {
             options: {
                 babelrc: false,
                 presets: ['react'],
+                plugins: [
+                    [
+                        "react-intl-auto",
+                        {
+                            removePrefix: "src",
+                            filebase: true
+                        }
+                    ]
+                ]
             }
         }]
     },

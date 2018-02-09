@@ -1,58 +1,58 @@
 [
     {
-        "id": "App.welcome",
+        "id": "components.App.hello",
         "defaultMessage": "Hello everyone!",
-        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "file": "src/components/App.js",
         "locale": "xx-en-reverse"
     },
     {
-        "id": "App.farewell",
+        "id": "components.App.goodbye",
         "defaultMessage": "Goodbye",
-        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "file": "src/components/App.js",
         "locale": "pt-BR"
     },
     {
-        "id": "App.farewell",
+        "id": "components.App.goodbye",
         "defaultMessage": "Goodbye",
-        "file": "/Users/dave/git-repos/riw-example/src/components/App.js",
+        "file": "src/components/App.js",
         "locale": "xx-en-reverse"
     },
     {
-        "id": "Buttons.press",
+        "id": "components.Buttons.press",
         "description": "User presses button to take an action",
         "defaultMessage": "Press me",
-        "file": "/Users/dave/git-repos/riw-example/src/components/Buttons.js",
+        "file": "src/components/Buttons.js",
         "locale": "pt-BR"
     },
     {
-        "id": "Buttons.press",
+        "id": "components.Buttons.press",
         "description": "User presses button to take an action",
         "defaultMessage": "Press me",
-        "file": "/Users/dave/git-repos/riw-example/src/components/Buttons.js",
+        "file": "src/components/Buttons.js",
         "locale": "xx-en-reverse"
     },
     {
-        "id": "Text.intro",
+        "id": "components.Text.intro",
         "defaultMessage": "This is some interesting text related to {name}.",
-        "file": "/Users/dave/git-repos/riw-example/src/components/Text.js",
+        "file": "src/components/Text.js",
         "locale": "pt-BR"
     },
     {
-        "id": "Text.intro",
+        "id": "components.Text.intro",
         "defaultMessage": "This is some interesting text related to {name}.",
-        "file": "/Users/dave/git-repos/riw-example/src/components/Text.js",
+        "file": "src/components/Text.js",
         "locale": "xx-en-reverse"
     },
     {
-        "id": "Text.thanks",
+        "id": "components.Text.thanks",
         "defaultMessage": "Thank you.",
-        "file": "/Users/dave/git-repos/riw-example/src/components/Text.js",
+        "file": "src/components/Text.js",
         "locale": "pt-BR"
     },
     {
-        "id": "Text.thanks",
+        "id": "components.Text.thanks",
         "defaultMessage": "Thank you.",
-        "file": "/Users/dave/git-repos/riw-example/src/components/Text.js",
+        "file": "src/components/Text.js",
         "locale": "xx-en-reverse"
     }
 ]

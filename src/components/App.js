@@ -1,19 +1,14 @@
 import React from 'react';
 import { defineMessages, FormattedMessage } from 'react-intl';
+import messages from './messages';
 
 import Buttons from './Buttons';
 import Text from './Text';
 import FileCounter from './FileCounter';
 
 const msg = defineMessages({
-    hello: {
-        id: 'App.welcome',
-        defaultMessage: 'Hello everyone!',
-    },
-    goodbye: {
-        id: 'App.farewell',
-        defaultMessage: 'Goodbye',
-    },
+    hello: 'Hello everyone!',
+    goodbye: 'Goodbye',
 });
 
 const App = () => (

@@ -1,9 +1,9 @@
 {
-    "App.welcome": "Hello everyone!",
-    "App.farewell": "Goodbye",
-    "Buttons.press": "Press me",
-    "Buttons.cancel": "Cancel",
-    "FileCounter.label": "You have {numFiles, plural, =0 {no files} one {one file} other {# files}}",
-    "Text.intro": "This is some interesting text related to {name}.",
-    "Text.thanks": "Thank you."
+    "components.App.hello": "Hello everyone!",
+    "components.App.goodbye": "Goodbye",
+    "components.Buttons.press": "Press me",
+    "components.Buttons.cancel": "Cancel",
+    "components.FileCounter.label": "You have {numFiles, plural, =0 {no files} one {one file} other {# files}}",
+    "components.Text.intro": "This is some interesting text related to {name}.",
+    "components.Text.thanks": "Thank you."
 }

@@ -4,14 +4,8 @@ import { defineMessages, FormattedMessage } from 'react-intl';
 import FileCounter from './FileCounter';
 
 const msg = defineMessages({
-    intro: {
-        id: 'Text.intro',
-        defaultMessage: 'This is some interesting text related to {name}.',
-    },
-    thanks: {
-        id: 'Text.thanks',
-        defaultMessage: 'Thank you.',
-    },
+    intro: 'This is some interesting text related to {name}.',
+    thanks: 'Thank you.',
 });
 
 const Text = ({ name, number }) => (
